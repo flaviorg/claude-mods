@@ -9,6 +9,20 @@
       "description": "Mod: holds destructive commands (rm -rf, force push, hard reset…) and shows what they would destroy before they run.",
       "version": "0.1.0",
       "category": "mod"
+    },
+    {
+      "name": "canopy",
+      "source": { "source": "github", "repo": "flaviorg/canopy" },
+      "description": "Mod: your project's file tree beside the chat, lit by what Claude reads, edits and commits.",
+      "version": "0.1.0",
+      "category": "mod"
+    },
+    {
+      "name": "crew",
+      "source": { "source": "github", "repo": "flaviorg/crew" },
+      "description": "Mod: every subagent Claude delegates to, live — animated mascot, model, context, tokens, estimated cost and time.",
+      "version": "0.1.0",
+      "category": "mod"
     }
   ]
 }

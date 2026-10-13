@@ -22,8 +22,8 @@ marketplace: add it once and install any of them.
 | | Mod | What it does | Status |
 |---|---|---|---|
 | ◆ | [**tripwire**](https://github.com/flaviorg/tripwire) | Holds a destructive command — `rm -rf`, force push, hard reset — and shows what it would destroy before it runs. You cancel or proceed. | 0.1.0 |
-| ◆ | **canopy** | Your project's file tree beside the chat, lit by what Claude reads, edits and commits. | planned |
-| ◆ | **crew** | A live panel of the subagents Claude delegates to: model, context, tokens, cost and time, with a mascot each. | planned |
+| ◆ | [**canopy**](https://github.com/flaviorg/canopy) | Your project's file tree beside the chat. Each file Claude touches keeps its state in its own color: being edited, edited, committed, being read, read. | 0.1.0 |
+| ◆ | [**crew**](https://github.com/flaviorg/crew) | A live panel of the subagents Claude delegates to: model, context, tokens, cost and time, each with an animated mascot. | 0.1.0 |
 | ◆ | **taximeter** | A band above the prompt with the session's real cost, tokens per minute and where it's heading. | planned |
 | ◆ | **pomodoro** | A focus timer in the band that pauses while Claude works and rings when it's done. | planned |
 | ◆ | **scribe** | Drafts the commit message and changelog entry as Claude edits; `/changelog` copies it. | planned |
