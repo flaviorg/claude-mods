@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "flaviorg", "url": "https://github.com/flaviorg" },
+  "metadata": { "description": "flaviorg's original Claude Code mods: tripwire, canopy, crew, taximeter, pomodoro, scribe, radar." },
+  "plugins": [
+    {
+      "name": "tripwire",
+      "source": { "source": "github", "repo": "flaviorg/tripwire" },
+      "description": "Mod: holds destructive commands (rm -rf, force push, hard reset…) and shows what they would destroy before they run.",
+      "version": "0.1.0",
+      "category": "mod"
+    }
+  ]
+}
