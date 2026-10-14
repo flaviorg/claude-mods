@@ -21,7 +21,7 @@
       "name": "crew",
       "source": { "source": "github", "repo": "flaviorg/crew" },
       "description": "Mod: every subagent Claude delegates to, live — animated mascot, model, context, tokens, estimated cost and time.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "mod"
     }
   ]
