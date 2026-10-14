@@ -44,7 +44,7 @@ Your project's file tree beside the chat. Every file Claude touches keeps its st
 </tr>
 <tr>
 <td align="center"><img src="docs/media/icons/crew.png" width="48" alt=""></td>
-<td><b><a href="https://github.com/flaviorg/crew">crew</a></b> &nbsp;<code>0.1.1</code><br>
+<td><b><a href="https://github.com/flaviorg/crew">crew</a></b> &nbsp;<code>0.2.0</code><br>
 A live panel of the subagents Claude delegates to: model, context, tokens, cost and time, each with its own animated pixel mascot. A one-line band above the prompt while anything runs.</td>
 </tr>
 </table>
